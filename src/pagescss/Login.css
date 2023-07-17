@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: poppins;
+    background-color: #F5EFD8;
+}
+
+.companyName{
+    width: fit-content;
+    margin: auto;
+    font-size: 30px;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+
+
+.login-plate{
+    border: 1px solid #F5EFD8;
+    width: 25%;
+    background-color: white;
+    margin: auto;
+    margin-top:5%;
+    box-shadow: 3px 3px 3px 3px rgb(187, 187, 187);
+
+}
+.loginTitle{
+    background: white;
+    border : 1px solid white;
+    width: fit-content;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.input-field{
+    margin-left: 10px;
+    background-color: white;
+}
+
+.labelField{
+    background: white;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.text-Field{
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid grey;
+    width: 80%;
+    font-size: 17px;
+}
+
+.submitButton{
+    border: 1px solid #F5EFD8;
+    width: 60%;
+    font-size: 20px;
+    height: 35px;
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+.account, .join{
+    background-color: white;
+}
+.join{
+    color: #086A5F;
+}
+.forget-password{
+    margin-top: 10px;
+    width: fit-content;
+    margin-left: 50%;
+    background-color: white;
+    color: #086A5F;
+}
